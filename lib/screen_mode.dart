@@ -1,0 +1,4 @@
+enum ScreenMode{
+  Live,
+  gallery
+}
